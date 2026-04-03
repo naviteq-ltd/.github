@@ -60,9 +60,9 @@ If you have questions about:
 - CI/CD standards
 - infrastructure or deployment structure
 
-the **organization owner** is the primary point of contact.
+the primary point of contact is **[DovnarAlexander](https://github.com/DovnarAlexander)**, the **CTO of Naviteq** and organization owner.
 
-> For operational, repository, or access-related questions, contact the organization owner directly.
+> For operational, repository, or access-related questions, contact [DovnarAlexander](https://github.com/DovnarAlexander) directly.
 
 ## Notes
 
